@@ -211,6 +211,7 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '笔记', link: '/笔记/' },
       { text: '学习', link: '/Content/笔记/' },
+      { text: '知乎严选', link: '/Content/知乎严选/' },
       { text: '最近更新', link: '/toc' },
     ],
     sidebar,
